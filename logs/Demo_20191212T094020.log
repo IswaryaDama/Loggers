@@ -1,0 +1,4 @@
+2019-12-12 09:40:20 [main] ERROR com.learn.e04.nio2.NIO2Exercise -
+                exception is java.nio.file.NoSuchFileException: src/main/resources/Tablet.txt
+2019-12-12 09:40:20 [main] WARN  com.learn.e04.nio2.NIO2Exercise -
+                may get filenot founf exception if didn't mention proper file
